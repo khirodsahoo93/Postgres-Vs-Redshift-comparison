@@ -11,4 +11,5 @@ In order to answer the second question, we are comparing differences in Approxim
 
 
 Figure 3
-!(https://github.com/khirodsahoo93/Postgres-Vs-Redshift-comparison/blob/main/516%20project.png)
+
+![1](https://github.com/khirodsahoo93/Postgres-Vs-Redshift-comparison/blob/main/516%20project.png)
