@@ -34,6 +34,6 @@ We modified two of the JOB queries [2] to include aggregations using the GROUP B
 
 For results, please view the full report:
 
-()
+(https://github.com/khirodsahoo93/Postgres-Vs-Redshift-comparison/blob/main/Redshift%20vs%20Postgres_Sampling%20%26%20AQP%20-%20Project%20Report%20%20.pdf)
 
 
